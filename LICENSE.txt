@@ -1,0 +1,25 @@
+All Rights Reserved
+
+Copyright (c) 2026 Adam Chehab
+
+No license is granted to any person or entity to use, copy, modify, merge,
+publish, distribute, sublicense, sell, host, deploy, run, reverse engineer, or
+otherwise exploit this software or any associated documentation, source code,
+assets, binaries, models, configurations, or other project materials.
+
+All access, use, reproduction, modification, distribution, or deployment of this
+software is strictly prohibited unless expressly authorized in advance by the
+copyright holder in a separate written agreement.
+
+This notice supersedes any permissive license previously included in this
+repository for future versions of the software. It does not retroactively revoke
+rights already granted under earlier valid license terms for copies lawfully
+obtained under those terms.
+
+This software incorporates substantial portions of a third-party open-source
+project originally released under the MIT License. This notice governs the
+original work and modifications contributed by the copyright holder above; it
+does not, and cannot, revoke the license under which those third-party
+portions were received. See protection/NOTICE.txt for the required
+attribution and the full text of that license.
+

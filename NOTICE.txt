@@ -1,0 +1,76 @@
+THIRD-PARTY NOTICES / MENTIONS DE TIERS — Caelum
+=================================================
+
+English
+-------
+
+Caelum is built on top of "opencode", an open-source project originally
+released under the MIT License. Substantial portions of this codebase
+originate from that project. This NOTICE file is provided to satisfy the
+attribution requirement of the MIT License for those portions; it does not
+apply to the original work and modifications contributed by Hassan Adam Chehab
+("Caelum"-specific branding, features, services and integrations not present
+in the original project), which remain governed by the terms in LICENSE.txt
+and EULA.txt in this same folder.
+
+Original project license reproduced below, verbatim, as required by its
+terms:
+
+-----------------------------------------------------------------------------
+MIT License
+
+Copyright (c) 2025 Kujtim Hoxha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-----------------------------------------------------------------------------
+
+Why this file exists: the MIT License requires its copyright notice and
+permission text to be preserved "in all copies or substantial portions of
+the Software". Relicensing new, original work built on top of an MIT-licensed
+project as proprietary is permitted by the MIT License; erasing the license
+of the inherited portions is not. This file restores that required notice so
+that the proprietary terms in LICENSE.txt and EULA.txt apply validly to what
+Adam Chehab actually owns, without misrepresenting authorship of the
+inherited portions.
+
+Français
+--------
+
+Caelum s'appuie sur « opencode », un projet open source initialement publié
+sous licence MIT. Une part substantielle de cette base de code provient de ce
+projet. Ce fichier NOTICE est fourni pour satisfaire l'obligation d'attribution
+de la licence MIT concernant ces portions ; il ne s'applique pas au travail
+original et aux modifications apportées par Adam Chehab (fonctionnalités,
+services, intégrations et image de marque propres à « Caelum », absents du
+projet d'origine), qui restent régis par les conditions figurant dans
+LICENSE.txt et EULA.txt dans ce même dossier.
+
+La licence du projet d'origine est reproduite ci-dessus, telle qu'exigée par
+ses propres termes (le texte de la licence MIT n'est fourni qu'en anglais,
+langue de rédaction originale, conformément à l'usage).
+
+Pourquoi ce fichier existe : la licence MIT exige que sa notice de copyright
+et son texte d'autorisation soient conservés « dans toutes les copies ou
+parties substantielles du logiciel ». Reproposer sous une licence propriétaire
+un travail nouveau et original construit au-dessus d'un projet sous licence
+MIT est permis par la licence MIT ; supprimer la licence des portions héritées
+ne l'est pas. Ce fichier rétablit cette notice obligatoire afin que les
+conditions propriétaires de LICENSE.txt et EULA.txt s'appliquent valablement
+à ce que Adam Chehab possède réellement, sans dénaturer la paternité des
+portions héritées.
